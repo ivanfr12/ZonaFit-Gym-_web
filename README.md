@@ -69,7 +69,7 @@ El sistema está preparado para ser extendido con autenticación y gestión de e
 Usa anotaciones @PostConstruct, @Autowired, @ViewScoped y @Component para una integración fluida entre Spring Boot y JSF.
 
 🧑‍💻 Autor
-Desarrollado por Ivan como parte del programa de formación Java con Alura Latam y Oracle.
+Desarrollado por Ivan Rodriguez.
 
 📃 Licencia
 Este proyecto es de código abierto y está disponible bajo la licencia MIT.
