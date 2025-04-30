@@ -1,4 +1,4 @@
-![Zona Fit](./zona_fit.png)
+![Zona Fit](./logo.png)
 
 # 💪 Zona Fit - Sistema de Gestión para Gimnasio
 
